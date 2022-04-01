@@ -12,4 +12,7 @@ wijziging 3
 
 wijziging 4
 
+na push op remote
+
+
 
