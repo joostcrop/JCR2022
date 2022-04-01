@@ -7,3 +7,6 @@ extra text
 
 om te testen via git commit -a
 
+
+wijziging 3
+
